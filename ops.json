@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "213d5daa-4c36-3fc3-9f23-515287866db4",
+    "name": "wuliniu",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "64411d8c-00d4-3d6e-aa44-a762a07254da",
+    "name": "magicalAttacker",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0dfab814-3b82-3e34-89e5-7263b1a0f12d",
+    "name": "magicAttacker",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
